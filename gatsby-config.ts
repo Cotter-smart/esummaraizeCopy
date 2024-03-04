@@ -2,7 +2,7 @@ import type { GatsbyConfig } from "gatsby";
 
 const config: GatsbyConfig = {
   siteMetadata: {
-    title: `My Mantine Site`,
+    title: `WealthForge AI EssumarAIze Site`,
   },
   graphqlTypegen: true,
   plugins: ["gatsby-plugin-postcss"],

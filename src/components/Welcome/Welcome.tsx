@@ -13,7 +13,7 @@ export function Welcome() {
           component="span"
           gradient={{ from: "pink", to: "yellow" }}
         >
-          Mantine
+          EsummarAIze
         </Text>
       </Title>
       <Text color="dimmed" ta="center" size="lg" maw={580} mx="auto" mt="xl">
